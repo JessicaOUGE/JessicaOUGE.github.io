@@ -5,7 +5,7 @@ url: "https://yourusername.github.io"  # Replace with your actual URL or custom 
 baseurl: ""  # Leave empty if deploying at the root
 
 # Use the remote theme for Minimal Mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Author information
 author:
