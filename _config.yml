@@ -1,0 +1,38 @@
+# _config.yml
+title: "From QA Engineer to Software/AI Engineer"
+description: "Documenting my journey from a QA professional to a Software/AI Engineer. I share career growth, technical transformation, and side hustle experiences."
+url: "https://yourusername.github.io"  # Replace with your actual URL or custom domain if applicable
+baseurl: ""  # Leave empty if deploying at the root
+
+# Use the remote theme for Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Author information
+author:
+  name: "Ge Ou"
+  bio: "I'm a QA Engineer transitioning into software/AI development. Follow my journey for career growth, technical transformation, and side hustle insights."
+  avatar: "/assets/images/avatar.jpg"  # Make sure to add your avatar image in the assets/images folder
+
+# Navigation links
+header:
+  nav:
+    - title: "Home"
+      url: /
+    - title: "Blog"
+      url: /blog/
+    - title: "Projects"
+      url: /projects/
+    - title: "Resources"
+      url: /resources/
+    - title: "Contact"
+      url: /contact/
+
+# Footer social links
+footer:
+  links:
+    - title: "Twitter"
+      url: "https://twitter.com/yourhandle"
+    - title: "LinkedIn"
+      url: "https://linkedin.com/in/yourhandle"
+    - title: "GitHub"
+      url: "https://github.com/yourhandle"
